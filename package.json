@@ -1,0 +1,31 @@
+{
+  "name": "arthur_technical_test",
+  "version": "1.0.0",
+  "description": "Automate test project for Arthur technical test",
+  "main": "index.js",
+  "devDependencies": {
+    "cypress": "^12.7.0",
+    "cypress-cucumber-predecessor": "^4.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zelena001/arthur_technical_test.git"
+  },
+  "keywords": [
+    "arthur_test"
+  ],
+  "author": "Nattawut Jarernprasert",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zelena001/arthur_technical_test/issues"
+  },
+  "homepage": "https://github.com/zelena001/arthur_technical_test#readme",
+  "dependencies": {
+    "-": "^0.0.1",
+    "cypress-cucumber-preprocessor": "^4.3.1",
+    "save-dev": "^0.0.1-security"
+  }
+}
