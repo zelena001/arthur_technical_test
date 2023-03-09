@@ -1,4 +1,5 @@
-# arthur_technical_test
+
+# Technical Test
 Setup step
 1. npm install
 2. use command 'npx cypress run --config-file=staging.config.js' or 'npx cypress open --config-file=staging.config.js' for open cypress runner
