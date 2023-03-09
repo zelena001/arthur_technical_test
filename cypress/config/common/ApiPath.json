@@ -1,0 +1,8 @@
+{
+    "reqes": {
+        "login_path":"/api/login",
+        "list_user_path":"/api/users?page=2"
+    }
+
+  }
+  
