@@ -1,4 +1,9 @@
-# Cypress project for interview 
-To run this project
+
+# Technical Test
+Setup step
 1. npm install
-2. open test running 'npx cypress open' or run with 'npx cypress run'
+2. use command 'npx cypress run --config-file=staging.config.js' or 'npx cypress open --config-file=staging.config.js' for open cypress runner
+
+Note:
+1. specific environment by specific config file eg. config-file=staging.config.js in run/open command
+2. Mochawesome report generate at cypress/report after run
